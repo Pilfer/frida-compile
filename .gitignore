@@ -1,5 +1,5 @@
 .vscode
-.ds_store
+.DS_Store
 /dist/
 /ext/*.d.ts
 /ext/cjstoesm.js
