@@ -1,3 +1,5 @@
+.vscode
+.ds_store
 /dist/
 /ext/*.d.ts
 /ext/cjstoesm.js
